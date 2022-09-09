@@ -1,5 +1,6 @@
 # universalis.app
-my take on the https://universalis.app backend
+
+my take on the [Universalis](https://universalis.app) backend
 
 ## Disclaimer
 
