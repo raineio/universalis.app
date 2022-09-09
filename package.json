@@ -1,0 +1,18 @@
+{
+  "name": "universalis-desktop-app",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "raine",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src.ts"
+  },
+  "devDependencies": {
+    "prisma": "^4.3.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.3.1",
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21"
+  }
+}
